@@ -1,0 +1,4 @@
+index,name,age,class,grade,passed,processed_ts
+0,mike,19,math,8,False,1663840696.112341
+1,john,19,math,9,True,1663840696.112341
+1,john,19,science,10,True,1663840696.112341
