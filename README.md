@@ -21,7 +21,7 @@ Practical Data Engineering notebooks for my [Medium blog](https://medium.com/@na
 ### Pandas
 
 - Reading & Writing data
-  - [Transformations on a JSON file using Pandas](https://medium.com/p/eba831181a96) | [![View on Github](https://img.shields.io/badge/Github-Notebook-orange?logo=Github)](data-analysis/pandas/pandas-transformations-json.ipynb)
+  - [Transformations on a JSON file using Pandas](https://medium.com/@nachovargas/transformations-on-a-json-file-using-pandas-eba831181a96) | [![View on Github](https://img.shields.io/badge/Github-Notebook-orange?logo=Github)](data-analysis/pandas/pandas-transformations-json.ipynb)
 
 ## Web Scraping
 
