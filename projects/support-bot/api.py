@@ -4,8 +4,8 @@ from jira import JIRA
 
 
 jira = JIRA(
-    basic_auth=('ignacio@jagersoftware.com', 'zG1GtrINZYMzarutXUYi3B62'),
-    server="https://jager.atlassian.net"
+    basic_auth=('<email>', '<token>'),
+    server="https://<company>.atlassian.net"
 )
 
 app = Flask(__name__)
@@ -17,7 +17,6 @@ def wa_hello():
 @app.route("/wasms", methods=['POST'])
 def wa_sms_reply():
     """Respond to incoming calls with a simple text message."""
-    # Fetch the message
     
     msg = request.form.get('Body').lower() # Reading the message from the whatsapp
  
