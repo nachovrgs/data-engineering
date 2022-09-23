@@ -7,10 +7,11 @@ Practical Data Engineering notebooks for my [Medium blog](https://medium.com/@na
 #### Content
 
 1. [General Setup](#general-setup)
-1. [Data Analysis](#data-analysis)
-   - [Pandas](#pandas)
-1. [Web scraping](#web-scraping)
-1. [Data Visualization](#data-visualization)
+2. [Data Analysis](#data-analysis)
+   - [Pandas](#data-analysis/pandas)
+3. [Web scraping](#web-scraping)
+4. [Data Visualization](#data-visualization)
+5. [Projects](#projects)
 
 ## General Setup
 
@@ -30,3 +31,7 @@ Practical Data Engineering notebooks for my [Medium blog](https://medium.com/@na
 ## Data Visualization
 
 - WIP..
+
+## Projects
+
+- [WhatsApp Support Bot using Python](https://medium.com/@nachovargas/2b0e78fda078) | [![View on Github](https://img.shields.io/badge/Github-Notebook-orange?logo=Github)](projects/support-bot/README.md)
